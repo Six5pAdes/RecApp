@@ -34,3 +34,4 @@ profile will use:
 - NODEMON
 
 ## Day Four: Frontend User Interface
+![RecApp_-_Fall_2024](https://github.com/user-attachments/assets/39b11339-3f51-4a07-943a-31a8882d728a)
